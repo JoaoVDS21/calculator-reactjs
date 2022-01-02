@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  background: #cacaca
+}
+
+.container{
+  width: 50%;
+  max-width: 1100px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+.container * {
+  box-sizing: border-box;
+}
