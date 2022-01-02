@@ -5,7 +5,7 @@ Foram utilizados:
 - Styled Components
 - Reducers
 
-Também foi utilizado localStorage para armazenamento de dados local.
+Também foi utilizado localStorage para armazenamento das contas.
 
 Segue imagens:
 ![Alt Text](/src/screenshots/img.png?raw=true "Exibição Calculadora")
