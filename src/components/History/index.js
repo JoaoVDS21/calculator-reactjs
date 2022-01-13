@@ -15,7 +15,7 @@ export default () => {
     
     return (
         <Container>
-            <h3>Histórico de Compras</h3>
+            <h3>Histórico de Contas</h3>
             <hr/>
             {state.calc.history.map((item, index)=>(
                 <p key={index}>{item}</p>
